@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ori Bayo
 #### I am a Software Developer
-![I am a Software Developer](https://github.com/oriBayo/oriBayo/blob/main/wallpapersden.com_joker-cool-minimal-4k-art-2021_3840x2160.jpg)
+
 
 I'm Ori Bayo from Israel, and I do content on  Design and Developer.
 I really enjoy learning languages and frameworks like React and Flask 
