@@ -9,6 +9,7 @@ I really enjoy learning languages and frameworks like React and Flask
 * ⚛ React
 * 💻 HTML, CSS, JS
 * 📱 Android 
+* C#
 
 
 ###
