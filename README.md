@@ -7,9 +7,11 @@ I really enjoy learning languages and frameworks like React and Flask
 
 ## Skills and Experience
 * ⚛ React
-* 💻 HTML, CSS, JS
+* 🌐 HTML, CSS, JS
+* 💻 C#, Python, Java, Scala
 * 📱 Android 
-* C#
+* 🗃️ MongoDB, SQL
+
 
 
 ###
