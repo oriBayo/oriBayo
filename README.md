@@ -4,7 +4,7 @@
 
 I'm Ori Bayo from Israel, an experienced software developer specializing in designing scalable, maintainable, and high-performance applications. Over the years, I’ve contributed to diverse projects in web, mobile, and backend development, while mentoring junior developers and collaborating across teams to deliver impactful solutions.
 
-## Skills and Experience
+## 🌟 Expertise and Skills
 * ⚛ React
 * 🌐 HTML, CSS, JS
 * 💻 C#, Python, Java, Scala
