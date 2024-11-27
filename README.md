@@ -1,9 +1,8 @@
 ### Hi there 👋, my name is Ori Bayo
-#### I am a Software Developer
+#### Software Developer
 
 
-I'm Ori Bayo from Israel, and I do content on  Design and Developer.
-I really enjoy learning languages and frameworks like React and Flask 
+I'm Ori Bayo from Israel, an experienced software developer specializing in designing scalable, maintainable, and high-performance applications. Over the years, I’ve contributed to diverse projects in web, mobile, and backend development, while mentoring junior developers and collaborating across teams to deliver impactful solutions.
 
 ## Skills and Experience
 * ⚛ React
