@@ -5,9 +5,9 @@
 I'm Ori Bayo from Israel, an experienced software developer specializing in designing scalable, maintainable, and high-performance applications. Over the years, I’ve contributed to diverse projects in web, mobile, and backend development, while mentoring junior developers and collaborating across teams to deliver impactful solutions.
 
 ## 🌟 Expertise and Skills
-* Frontend Development: Advanced React, Next.js, TypeScript, CSS-in-JS
+* Frontend Development: React, Next.js, Bootstrap, Tailwind
 * Backend Development: Flask, Node.js, .NET Core, Microservices architecture
-* Programming Languages: C#, JS, Python 
+* Programming Languages: C#, JS, TypeScript, Python 
 * Database Management: MongoDB, SQL, Redis
 
 
