@@ -6,10 +6,9 @@ I'm Ori Bayo from Israel, an experienced software developer specializing in desi
 
 ## 🌟 Expertise and Skills
 * Frontend Development: Advanced React, Next.js, TypeScript, CSS-in-JS
-* Backend Development: Flask, Node.js, Django, .NET Core, Microservices architecture
+* Backend Development: Flask, Node.js, .NET Core, Microservices architecture
 * Programming Languages: C#, JS, Python 
 * Database Management: MongoDB, SQL, Redis
-* DevOps & Cloud: Docker, Kubernetes, AWS, CI/CD pipelines
 
 
 
